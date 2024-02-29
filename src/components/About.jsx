@@ -13,7 +13,7 @@ function About() {
             </button>
           </div>
           <div className="w-1/2 h-[70vh] rounded-3xl bg-[#b0c858] overflow-hidden">
-          <img src="/public/images/img-2.jpg" alt="description_of_image" className="w-.2 h-[70vh] object-cover" />
+          <img src="/images/img-2.jpg" alt="description_of_image" className="w-.2 h-[70vh] object-cover" />
           </div>
         </div>
     </div> 
